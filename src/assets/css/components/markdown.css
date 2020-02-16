@@ -1,4 +1,4 @@
-.markdown {
+.markdown{
   p, ul, ol {
     @apply mb-4;
   }
@@ -111,4 +111,5 @@
     background: rgba(0,0,0,.15);
   }
 }
+
 
