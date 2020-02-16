@@ -1,5 +1,5 @@
 {
-  "name": "my-website",
+  "name": "rea-intelligence",
   "private": true,
   "scripts": {
     "build": "gridsome build",

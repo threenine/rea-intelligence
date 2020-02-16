@@ -52,7 +52,7 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'REA Intelligence, Crypto Currency Tutorials, Articles and News',
+          title: 'REA Intelligence, Crypto Currency Tutorials, Articles & News',
           feed_url: 'https://rea-intelligence.com/feed.xml',
           site_url: 'https://rea-intelligence.com',
         },
