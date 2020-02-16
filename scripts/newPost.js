@@ -3,7 +3,7 @@ const moment = require('moment')
 const slugify = require('@sindresorhus/slugify')
 
 const title = process.argv[2]
-const blogdir = './content/posts'
+const blogdir = './posts'
 const postDate = moment().format('YYYY-MM-DD HH:mm:ss')
 
 if (!title) {

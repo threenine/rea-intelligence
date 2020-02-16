@@ -6,9 +6,9 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 
 collections:
-    - name: "posts"
-      label: "Posts"
-      folder: "posts"
+    - name: "content"
+      label: "Content"
+      folder: "content"
       create: true
       slug: "{{slug}}"
       fields:
@@ -16,3 +16,41 @@ collections:
           - {label: "Excerpt", name: "excerpt", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "date"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Fullscreen", name: "fullscreen", widget: "boolean" }
+          - label: "Tags"
+            name: "tags"
+            widget: list
+            field: { label: "Tag", name: "tag", widget: "string" }
+          - {label: "Cover", name: "cover", widget: "image"}
+    - name: "articles"
+      label: "Article"
+      folder: "content/articles"
+      create: true
+      slug: "articles/{{slug}}"
+      fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Excerpt", name: "excerpt", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "date"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Fullscreen", name: "fullscreen", widget: "boolean" }
+          - label: "Tags"
+            name: "tags"
+            widget: list
+            field: { label: "Tag", name: "tag", widget: "string" }
+          - {label: "Cover", name: "cover", widget: "image"}
+    - name: "tutorials"
+      label: "Tutorial"
+      folder: "content/tutorial"
+      create: true
+      slug: "tutorials/{{slug}}"
+      fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Excerpt", name: "excerpt", widget: "string"}
+          - {label: "Publish Date", name: "date", widget: "date"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Fullscreen", name: "fullscreen", widget: "boolean" }
+          - label: "Tags"
+            name: "tags"
+            widget: list
+            field: { label: "Tag", name: "tag", widget: "string" }
+          - {label: "Cover", name: "cover", widget: "image"}
