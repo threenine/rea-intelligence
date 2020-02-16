@@ -38,7 +38,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-135446199-1',
+        id: 'UA-158618204-1',
       },
     },
     {
@@ -52,9 +52,9 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Bleda, a Gridsome blog starter',
-          feed_url: 'https://gridsome-starter-bleda.netlify.com/feed.xml',
-          site_url: 'https://gridsome-starter-bleda.netlify.com',
+          title: 'REA Intelligence, Crypto Currency Tutorials, Articles and News',
+          feed_url: 'https://rea-intelligence.com/feed.xml',
+          site_url: 'https://rea-intelligence.com',
         },
         feedItemOptions: node => ({
           title: node.title,
