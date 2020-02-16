@@ -2,12 +2,16 @@
   <Layout class="bg-white">
     <main>
       <header>
-        <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-10 md:py-32 border-b border-gray-300">
-          <h1 class="text-4xl sm:text-5xl md:text-6xl font-sans font-bold mb-1">
-            <g-link to="/" class="text-black">REA Intelligence</g-link>
-          </h1>
-          <p class="text-gray-700 text-lg sm:text-3xl">Cryptocurrency articles, tutorials & news</p>
+      <div class="bg-gray-900 p-4 mt-0 w-full">
+        <div class="container mx-auto flex items-center">
+          <div class="flex text-white font-extrabold">
+            <g-link to="/" class="flex text-white text-base no-underline hover:text-white hover:no-underline">REA Intelligence</g-link>
+          </div>
         </div>
+
+      </div>
+
+
       </header>
       <section>
         <post-item v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
