@@ -36,6 +36,12 @@ module.exports = {
       },
     },
     {
+      use: `gridsome-plugin-netlify-cms`,
+      options: {
+        publicPath: `/admin`
+      }
+    },
+    {
       use: '@gridsome/plugin-google-analytics',
       options: {
         id: 'UA-158618204-1',
