@@ -7,3 +7,6 @@ node_modules
 dist
 static/feed.xml
 .DS_Store
+
+# Netlify creates its own package-lock.json file so ignore the check in
+package-lock.json
