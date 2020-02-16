@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc113097-9217-49fc-b723-0b852f7a43bc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Rea-Developments" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,17 +57,40 @@
       <option name="presentableId" value="Default" />
       <updated>1581371635490</updated>
       <workItem from="1581371640364" duration="1069000" />
+      <workItem from="1581406200043" duration="440000" />
+      <workItem from="1581445037559" duration="691000" />
+      <workItem from="1581496864090" duration="77000" />
     </task>
+    <task id="LOCAL-00001" summary="Getting things ready">
+      <created>1581406443378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581406443378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Getting things ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting things ready" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581405627924">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state x="443" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.27.1870.1053@50.27.1870.1053" timestamp="1581405627924" />
+    <state x="550" y="145" width="860" height="823" key="CommitChangelistDialog2" timestamp="1581406443207">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="550" y="145" width="860" height="823" key="CommitChangelistDialog2/50.27.1870.1053@50.27.1870.1053" timestamp="1581406443207" />
+    <state x="768" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581496938642">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="768" y="311" width="424" height="491" key="FileChooserDialogImpl/50.27.1870.1053@50.27.1870.1053" timestamp="1581496938642" />
     <state width="1824" height="275" key="GridCell.Tab.0.bottom" timestamp="1581405721808">
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
@@ -133,14 +155,17 @@
       <screen x="50" y="27" width="1870" height="1053" />
     </state>
     <state width="1824" height="340" key="GridCell.Tab.3.right/50.27.1870.1053@50.27.1870.1053" timestamp="1581405721795" />
+    <state x="580" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1581406445918">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="580" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/50.27.1870.1053@50.27.1870.1053" timestamp="1581406445918" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/pages/Index.vue</url>
-          <line>6</line>
-          <properties lambdaOrdinal="-1" />
+          <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
