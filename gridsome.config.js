@@ -1,8 +1,8 @@
 module.exports = {
-  siteName: REA-Intelligence',
+  siteName: 'REA-Intelligence',
   siteDescription: "latest Cryptocurrency and Blockchain News, Information and Data for the US and UK markets, researched and written by a team of expert crypto-journalists",
   siteUrl: 'https://rea-intelligence.com',
-  titleTemplate: `%s | Bleda`,
+  titleTemplate: `%s | REA-Intelligence`,
   icon: 'src/favicon.png',
 
   transformers: {
@@ -59,7 +59,7 @@ module.exports = {
         feedItemOptions: node => ({
           title: node.title,
           description: node.description,
-          url: 'https://gridsome-starter-bleda.netlify.com' + node.path,
+          url: 'https://rea-intelligence.com' + node.path,
           author: node.author,
           date: node.date,
         }),
