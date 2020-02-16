@@ -1,6 +1,7 @@
 ---
 title: What is Cryptocurrency?
 description: a definition of cryptocurrency
+summary: This is the summary
 date: 2019-02-22T13:59:57.000Z
 author: gary-woodfine
 fullscreen: true
