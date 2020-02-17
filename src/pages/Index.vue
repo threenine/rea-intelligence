@@ -5,7 +5,8 @@
       <div class="bg-gray-900 p-4 mt-0 w-full">
         <div class="container mx-auto flex items-center">
           <div class="flex text-white font-extrabold">
-            <g-link to="/" class="flex text-white text-base no-underline hover:text-white hover:no-underline">REA Intelligence</g-link>
+            <g-link to="/" class="flex text-white text-base no-underline hover:text-white hover:no-underline">
+              <g-image src="/images/rea-intelligence.png" width="500"/></g-link>
           </div>
         </div>
 
@@ -58,7 +59,11 @@ export default {
       return config
     },
     ogImageUrl () {
-      return `${this.config.siteUrl}/images/bleda-card.png`
+      return `${this.config.siteUrl}/images/rea-intelligence-card.png`
+    },
+    headerLogoUrl () {
+      return `${this.config.siteUrl}/images/rea-intelligence.png`
+
     }
   },
 }

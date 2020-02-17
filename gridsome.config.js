@@ -101,7 +101,8 @@ module.exports = {
               content: [
                 'src/assets/**/*.css',
                 'src/**/*.vue',
-                'src/**/*.js'
+                'src/**/*.js',
+                'src/assets/images/*.png'
               ],
               defaultExtractor: content => content.match(/[\w-/:%]+(?<!:)/g) || [],
               whitelistPatterns: [/shiki/]
