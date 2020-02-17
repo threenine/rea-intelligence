@@ -1,19 +1,7 @@
 <template>
   <Layout class="bg-white">
     <main>
-      <header>
-      <div class="bg-gray-900 p-4 mt-0 w-full">
-        <div class="container mx-auto flex items-center">
-          <div class="flex text-white font-extrabold">
-            <g-link to="/" class="flex text-white text-base no-underline hover:text-white hover:no-underline">
-              <g-image src="~/assets/images/rea-intelligence.png" width="500"/></g-link>
-          </div>
-        </div>
-
-      </div>
-
-
-      </header>
+     <site-header></site-header>
       <section>
         <post-item v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
       </section>
@@ -24,6 +12,7 @@
 </template>
 
 <script>
+  import SiteHeader from "../components/SiteHeader";
 import config from '~/.temp/config.js'
 import SiteFooter from '@/components/Footer'
 import PostItem from '@/components/PostItem'
@@ -31,6 +20,7 @@ import Pagination from '@/components/Pagination'
 
 export default {
   components: {
+    SiteHeader,
     PostItem,
     Pagination,
     SiteFooter,
