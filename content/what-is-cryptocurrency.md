@@ -6,7 +6,7 @@ tags:
   - crypto
 ---
 
-Cryptocurrency is an digital virtual cash system that doesn't rely on central banks or trusted third parties to verify transactions and create new units. Instead, it uses cryptography to confirm transactions on a publicly **distributed ledger** called the **Blockchain**, enabling direct peer-to-peer payments.
+Cryptocurrency is an digital virtual monetary system that doesn't rely on central banks or trusted third parties to verify transactions and create new units. Instead, it uses cryptography to confirm transactions on a publicly **distributed ledger** called the **Blockchain**, enabling direct peer-to-peer payments.
 
 The term **cryptocurrency** is applied to a digital or virtual currency that uses cryptography for security.  Usually there is no physical form and is not typically redeemable against another commodity. 
 
