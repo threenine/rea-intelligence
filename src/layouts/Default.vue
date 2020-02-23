@@ -9,7 +9,7 @@
 <script>
 import config from '~/.temp/config.js';
 import SiteHeader from "../components/SiteHeader";
-import SiteFooter from "../components/Footer";
+import SiteFooter from "../components/SiteFooter";
 
 export default {
   components : {

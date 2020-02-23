@@ -15,7 +15,7 @@
         <post-item v-for="edge in $page.tag.belongsTo.edges" :key="edge.node.id" :post="edge.node" />
       </section>
       <pagination :base="`${$page.tag.path}`" :info="$page.tag.belongsTo.pageInfo" v-if="$page.tag.belongsTo.pageInfo.totalPages > 1" />
-      <site-footer class="py-8 sm:py-16" />
+
     </main>
   </Layout>
 </template>
@@ -24,14 +24,14 @@
 import moment from 'moment'
 import config from '~/.temp/config.js'
 import PostItem from '@/components/PostItem'
-import SiteFooter from '@/components/Footer'
+
 import Pagination from '@/components/Pagination'
 
 export default {
   components: {
     PostItem,
     Pagination,
-    SiteFooter,
+
   },
   metaInfo () {
     return {
