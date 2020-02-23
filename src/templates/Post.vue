@@ -125,15 +125,9 @@ query Post ($path: String) {
   post (path: $path) {
     title
     path
-    datetime: date (format: "YYYY-MM-DD HH:mm:ss")
     content
     description
     timeToRead
-    author {
-      id
-      title
-      path
-    }
     tags {
       id
       title

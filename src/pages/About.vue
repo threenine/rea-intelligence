@@ -43,8 +43,8 @@ export default {
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: 'About' },
         { name: "twitter:description", content: this.ogDescription },
-        { name: "twitter:site", content: "@cossssmin" },
-        { name: "twitter:creator", content: "@cossssmin" },
+        { name: "twitter:site", content: "@threenine39" },
+        { name: "twitter:creator", content: "@threenine39" },
         { name: "twitter:image", content: this.ogImageUrl },
       ],
     }
@@ -54,7 +54,7 @@ export default {
       return config
     },
     ogDescription () {
-      return 'Introduction to the Bleda blog starter for Gridsome.'
+      return 'Introduction to REA Intelligence.'
     },
     ogImageUrl () {
       return `${this.config.siteUrl}/images/bleda-card.png`

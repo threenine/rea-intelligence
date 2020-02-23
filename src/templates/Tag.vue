@@ -91,17 +91,11 @@ query Tag ($path: String!, $page: Int) {
           ...on Post {
             id
             title
-            datetime: date (format: "YYYY-MM-DD HH:mm:ss")
             path
             content
             excerpt
             description
             timeToRead
-            author {
-              id
-              title
-              path
-            }
           }
         }
       }
