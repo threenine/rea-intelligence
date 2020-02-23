@@ -2,15 +2,8 @@
   <Layout>
     <main>
       <post-header :post="$page.post" />
-
       <article class="max-w-xl md:max-w-2xl xl:max-w-3xl mx-auto px-6 sm:px-12 pt-16" :class="{'border-b border-grey-lighter pb-10 mb-16': !$page.post.author}">
-
-        <alert v-if="postIsOlderThanOneYear" class="bg-orange-100 border-l-4 border-orange-500 text-orange-900">
-          This post is over a year old, some of this information may be out of date.
-        </alert>
-
         <div :class="{'pb-10': $page.post.author || $page.post.tags}" class="markdown text-lg leading-normal text-gray-700" v-html="$page.post.content" />
-
         <footer v-if="$page.post.author || $page.post.tags" class="flex flex-wrap pb-10 sm:pb-16">
           <div>
             <g-link v-for="tag in $page.post.tags" :key="tag.id" :to="`${tag.path}/`" class="inline-block text-teal-400 hover:text-white hover:bg-teal-400 border border-teal-400 font-sans font-bold text-xs sm:text-sm px-4 py-2 mr-4 mb-2 rounded-full transition-color transition-bg">
@@ -36,7 +29,7 @@
         </footer>
       </article>
 
-      <site-footer class="pb-8 sm:pb-10" />
+
     </main>
   </Layout>
 </template>
@@ -44,16 +37,14 @@
 <script>
 import moment from 'moment'
 import config from '~/.temp/config.js'
-import Alert from '@/components/Alert'
+
 import slugify from '@sindresorhus/slugify'
-import SiteFooter from '@/components/Footer'
 import PostHeader from '~/components/PostHeader'
 
 export default {
   components: {
-    Alert,
     PostHeader,
-    SiteFooter,
+
   },
   metaInfo () {
     return {
@@ -116,10 +107,6 @@ export default {
     avatar () {
       return `/images/authors/${this.$page.post.author.id}.png`
     },
-    postIsOlderThanOneYear () {
-      let postDate = moment(this.$page.post.datetime)
-      return moment().diff(postDate, 'years') > 0 ? true : false
-    },
     postUrl () {
       let siteUrl = this.config.siteUrl
       let postPath = this.$page.post.path
@@ -142,8 +129,6 @@ query Post ($path: String) {
     content
     description
     timeToRead
-    cover
-    fullscreen
     author {
       id
       title

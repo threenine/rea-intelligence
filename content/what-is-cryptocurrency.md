@@ -3,13 +3,11 @@ title: What is Cryptocurrency?
 description: a definition of cryptocurrency
 date: 2019-02-22T13:59:57.000Z
 author: gary-woodfine
-fullscreen: false
 tags:
   - cryptocurrency
   - crypto
-cover: /uploads/cryptocurrency.jpg
+
 ---
-## What is Cryptocurrency
 
 The term **cryptocurrency** is applied to a digital or virtual currency that uses cryptography for security.  Usually there is no physical form and is not typically redeemable against another commodity 
 

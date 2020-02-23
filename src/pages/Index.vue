@@ -1,29 +1,25 @@
 <template>
   <Layout class="bg-white">
     <main>
-     <site-header></site-header>
       <section>
         <post-item v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
       </section>
       <pagination :info="$page.posts.pageInfo" v-if="$page.posts.pageInfo.totalPages > 1" />
-      <site-footer class="py-8 sm:py-16" />
+
     </main>
   </Layout>
 </template>
 
 <script>
-  import SiteHeader from "../components/SiteHeader";
+
 import config from '~/.temp/config.js'
-import SiteFooter from '@/components/Footer'
 import PostItem from '@/components/PostItem'
 import Pagination from '@/components/Pagination'
 
 export default {
   components: {
-    SiteHeader,
     PostItem,
     Pagination,
-    SiteFooter,
   },
   metaInfo () {
     return {
@@ -72,18 +68,11 @@ export default {
           id
           title
           timeToRead
-          datetime: date (format: "YYYY-MM-DD HH:mm:ss")
           content
           excerpt
           description
           path
-          cover
           tags {
-            id
-            title
-            path
-          }
-          author {
             id
             title
             path
