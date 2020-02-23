@@ -1,12 +1,9 @@
 ---
 title: What is Cryptocurrency?
 description: a definition of cryptocurrency
-date: 2019-02-22T13:59:57.000Z
-author: gary-woodfine
 tags:
   - cryptocurrency
   - crypto
-
 ---
 
 The term **cryptocurrency** is applied to a digital or virtual currency that uses cryptography for security.  Usually there is no physical form and is not typically redeemable against another commodity 
@@ -22,3 +19,7 @@ The three ingredients that make a cryptocurrency are:
 * Peer-To-Peer (p2p) network
 * Cryptography
 * Consensus mechanism.
+
+Cryptocurrency is an digital virtual cash system that doesn't rely on central banks or trusted third parties to verify transactions and create new units. Instead, it uses cryptography to confirm transactions on a publicly **distributed ledger** called the **Blockchain**, enabling direct peer-to-peer payments.
+
+
