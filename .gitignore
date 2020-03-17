@@ -1,12 +1,10 @@
 *.log
 .cache
-.vscode
-.idea
+.DS_Store
 src/.temp
 node_modules
 dist
-static/feed.xml
-.DS_Store
-
-# Netlify creates its own package-lock.json file so ignore the check in
+.env
+.env.*
 package-lock.json
+.idea

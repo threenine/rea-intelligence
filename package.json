@@ -1,30 +1,42 @@
 {
-  "name": "rea-intelligence",
-  "private": true,
-  "scripts": {
-    "build": "gridsome build",
-    "develop": "gridsome develop",
-    "explore": "gridsome explore",
-    "newpost": "node scripts/newPost.js"
-  },
-  "dependencies": {
-    "@fullhuman/postcss-purgecss": "^2.0.6",
-    "@gridsome/plugin-google-analytics": "^0.1.0",
-    "@gridsome/plugin-sitemap": "^0.2.3",
-    "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.4.0",
-    "gridsome": "^0.7.12",
-    "gridsome-plugin-netlify-cms": "^1.0.9",
-    "gridsome-plugin-remark-shiki": "^0.3.1",
-    "gridsome-plugin-rss": "^1.2.0",
-    "medium-zoom": "^1.0.5",
-    "netlify-cms": "^2.10.22",
-    "vue-parallaxy": "^1.1.1"
-  },
-  "devDependencies": {
-    "moment": "^2.24.0",
-    "postcss-import": "^12.0.1",
-    "postcss-nested": "^4.2.1",
-    "tailwindcss": "^1.2.0"
-  }
+    "name": "geekiam",
+    "private": true,
+    "scripts": {
+        "build": "gridsome build",
+        "develop": "gridsome develop",
+        "explore": "gridsome explore"
+    },
+    "dependencies": {
+        "@gridsome/plugin-google-analytics": "^0.1.0",
+        "@gridsome/source-filesystem": "^0.6.2",
+        "@gridsome/transformer-remark": "^0.5.0",
+        "dotenv": "^8.2.0",
+        "gridsome": "^0.7.12",
+        "gridsome-plugin-netlify-cms": "^1.0.9",
+        "moment": "^2.24.0",
+        "netlify-cms": "^2.10.23",
+        "vue-loader": "^15.9.0"
+    },
+    "description": "Game review site from Lucia Woodfine.",
+    "version": "1.0.0",
+    "main": "gridsome.config.js",
+    "devDependencies": {
+        "gridsome-plugin-tailwindcss": "^2.2.43",
+        "tailwindcss-transitions": "^2.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/garywoodfine/geekiam.git"
+    },
+    "keywords": [
+        "geek",
+        "tech",
+        "reviews"
+    ],
+    "author": "Gary Woodfine",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/garywoodfine/geekiam/issues"
+    },
+    "homepage": "https://github.com/garywoodfine/geekiam#readme"
 }
