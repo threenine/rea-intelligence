@@ -23,7 +23,7 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'static/posts/*.md',
+        path: 'static/posts/**/*.md',
         typeName: 'Post',
         refs: {
           tags: {
@@ -38,6 +38,24 @@ module.exports = {
       }
     },
     {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'static/guides/**/*.md',
+        typeName: 'Guide',
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            create: true,
+          },
+          author: {
+            typeName: 'Author',
+            create: true,
+          },
+        },
+      }
+    },
+
+    {
       use: `gridsome-plugin-netlify-cms`,
       options: {
         publicPath: `/admin`
@@ -48,5 +66,6 @@ module.exports = {
     Post: '/:title',
     Tag: '/tag/:id',
     Author: '/author/:id',
+    Guide: '/guides/:title'
   },
 };
