@@ -40,21 +40,10 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'static/guides/**/*.md',
-        typeName: 'Guide',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            create: true,
-          },
-          author: {
-            typeName: 'Author',
-            create: true,
-          },
-        },
+        path: 'static/guides/crypto/*.md',
+        typeName: 'Crypto',
       }
     },
-
     {
       use: `gridsome-plugin-netlify-cms`,
       options: {
@@ -66,6 +55,10 @@ module.exports = {
     Post: '/:title',
     Tag: '/tag/:id',
     Author: '/author/:id',
-    Guide: '/guides/:title'
+    Crypto: [
+      {
+        path: '/guides/crypto/:title',
+        component: './src/templates/guides/crypto/Guide.vue'
+      }],
   },
 };
