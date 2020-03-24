@@ -33,7 +33,8 @@ The entire human race, irrespective of nationality, culture, creed or race need 
 
 ## Viral Economic Impact
 
-Probably the most devastating impact of the virus, despite killing over 18 000 and infecting over 400 000 people, in 196 countries across the globe, is the impact it had on the Global Economy. 
+Probably the most devastating impact of the virus, despite killing over 18 000 and infecting over 400 000 people, in 196 countries across the globe, is the impact it had on the Global Economy.  We'll take a look at the 2 main indexes of American stock market, because as after all as the old saying goes, if America sneezes the rest of the world catches a cold.
+
 
 |Dow Jones Industrial Average|S&P 500 Index|NASDAQ Composite Index|
 |:-------------:|:-------------:|:-----:|
