@@ -25,3 +25,9 @@ Research published by the **Scripps Research Institute** in February strongly im
 
 The general consensus among experts researching the virus places the beginning of its spread at the Huanan Seafood Wholesale Market in Wuhan, China.
 
+Irrespective of the origins of the Virus, one thing that stands out is that as a species, human beings destroy ecosystems and often farm animals in quite cruel, crowded conditions. These two things expose humanity to really dangerous viruses from animals.
+
+As a species, we all need to accept some responsibility and wake up to the fact we need to treat our planet better but, there is no one person or culture that we need to blame here.  
+
+The entire human race, irrespective of nationality, culture, creed or race need to take full brunt of the burden because each and every single one of us are share the responsibility for it.  
+
