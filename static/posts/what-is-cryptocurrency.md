@@ -35,8 +35,6 @@ The entire human race, irrespective of nationality, culture, creed or race need 
 
 Probably the most devastating impact of the virus, despite killing over 18 000 and infecting over 400 000 people, in 196 countries across the globe, is the impact it had on the Global Economy. 
 
-![Dow Jones Industrial Average](/uploads/dow-jones-industrial-index.png "Dow Jones Industrial Average")
-
-![S&P 500 Index](/uploads/sandp-500-index.png "S&P 500 Index")
-
-![NASDAQ Composite Index](/uploads/nasdaq-composite-index.png "NASDAQ Composite Index")
+|Dow Jones Industrial Average|S&P 500 Index|NASDAQ Composite Index|
+|:-------------:|:-------------:|:-----:|
+|![Dow Jones Industrial Average](/uploads/dow-jones-industrial-index.png "Dow Jones Industrial Average")|![S&P 500 Index](/uploads/sandp-500-index.png "S&P 500 Index")|![NASDAQ Composite Index](/uploads/nasdaq-composite-index.png "NASDAQ Composite Index")|
