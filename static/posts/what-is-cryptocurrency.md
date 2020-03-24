@@ -31,3 +31,6 @@ As a species, we all need to accept some responsibility and wake up to the fact 
 
 The entire human race, irrespective of nationality, culture, creed or race need to take full brunt of the burden because each and every single one of us are share the responsibility for it.  
 
+## Viral Economic Impact
+
+Probably the most devastating impact of the virus, despite killing over 18 000 and infecting over 400 000 people, in 196 countries across the globe, is what impact it has had on the Global Economy
