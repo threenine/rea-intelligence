@@ -30,9 +30,7 @@
 </template>
 
 <script>
-    import moment from 'moment'
-
-    export default {
+     export default {
         props: ['post'],
         methods: {
             titleCase(str) {

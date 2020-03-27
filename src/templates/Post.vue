@@ -21,7 +21,7 @@
 </template>
 
 <script>
-    import Tags from '@/components/Tags';
+    import Tags from '@/components/Post/Tags';
     import Author from "@/components/Author";
     import PostTitle from "@/components/Post/PostTitle";
 
