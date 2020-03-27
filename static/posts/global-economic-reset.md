@@ -9,7 +9,7 @@ tags:
 ---
 ![Global economic reset](/uploads/economics.png "Global economic reset")
 
-Since the start of a new decade for the world, it has been caught in a vice like grip of a formerly little known virus of Covid-19 or otherwise known as Corona Virus.
+Since the start of a new decade for the world, it has been caught in a vice like grip of a formerly little known virus of Covid-19 (SARS-CoV-2)  or otherwise known as Corona Virus.
 
 The Virus is purported to have initially identified after an outbreak in Wuhan, China.  The general consensus among researchers studying the spread of the virus pinpoints COVID-19's most likely origin to a *wet market* or live animal market within Wuhan. The origin theory for the virus is supplemented by preliminary research into the disease’s genome, as well as the origins of similar diseases. 
 
@@ -35,9 +35,13 @@ The entire human race, irrespective of nationality, culture, creed or race need 
 
 ## Viral Economic Impact
 
-Probably the most devastating impact of the virus, despite killing over 18 000 and infecting over 400 000 people, in 196 countries across the globe, is the impact it had on the Global Economy.  We'll take a look at the 2 main indexes of American stock market, because as after all as the old saying goes, if America sneezes the rest of the world catches a cold.
+Probably the most devastating impact of the virus, despite killing over 20 000 and infecting over 400 000 people, in 196 countries across the globe, is the impact it had on the Global Economy.  We'll take a look at the 2 main indexes of American stock market, because as after all as the old saying goes, if America sneezes the rest of the world catches a cold.
 
 | Dow Jones Industrial Average                                                                            | S&P 500 Index                                                  | NASDAQ Composite Index                                                                  |
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | ![Dow Jones Industrial Average](/uploads/dow-jones-industrial-index.png "Dow Jones Industrial Average") | ![S&P 500 Index](/uploads/sandp-500-index.png "S&P 500 Index") | ![NASDAQ Composite Index](/uploads/nasdaq-composite-index.png "NASDAQ Composite Index") |
 
+COVID-19 has affected the global economy in three main ways: 
+* Directly affecting production
+* supply chain and market disruption
+* Financial impact on firms and financial markets. 
