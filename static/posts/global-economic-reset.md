@@ -15,7 +15,7 @@ The Virus is purported to have initially identified after an outbreak in Wuhan, 
 
 Researchers at the Shanghai Public Health Clinical Centre published the genome of COVID-19 two weeks after cases were reported in late December 2019. Gene sequencing analysis strongly suggests the virus originated in bats and was transferred to humans through a yet-unidentified intermediary species. 
 
-In early February, Chinese researchers published work suggesting the intermediary species may have been the pangolin (also called a scaly anteater), though this work has not yet undergone a peer-reviewed study.
+In early February, Chinese researchers published work suggesting the intermediary species may have been the pangolin (a scaly anteater), though this work has not yet undergone a peer-reviewed study.
 
 The conditions for such inter-species pathogen transfer are ripe in wet markets, which are common in parts of Asia, Africa and Latin America. 
 
@@ -31,7 +31,7 @@ Irrespective of the origins of the Virus, one thing that stands out is that as a
 
 As a species, we all need to accept some responsibility and wake up to the fact we need to treat our planet better but, there is no one person or culture that we need to blame here.  
 
-The entire human race, irrespective of nationality, culture, creed or race need to take full brunt of the burden because each and every single one of us are share the responsibility for it.  
+The entire human race, irrespective of nationality, culture, creed or race need to take full brunt of the burden because each and every single one of us are share the responsibility for it.  Primarily because we have all been complicit in creating the conditions for Covid-19 evolve.
 
 ## Viral Economic Impact
 
@@ -40,3 +40,4 @@ Probably the most devastating impact of the virus, despite killing over 18 000 a
 | Dow Jones Industrial Average                                                                            | S&P 500 Index                                                  | NASDAQ Composite Index                                                                  |
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | ![Dow Jones Industrial Average](/uploads/dow-jones-industrial-index.png "Dow Jones Industrial Average") | ![S&P 500 Index](/uploads/sandp-500-index.png "S&P 500 Index") | ![NASDAQ Composite Index](/uploads/nasdaq-composite-index.png "NASDAQ Composite Index") |
+
