@@ -41,6 +41,7 @@
                     excerpt
                     description
                     path
+                    date (format: "D MMMM Y")
                     tags {
                             id
                             title
