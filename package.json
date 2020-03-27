@@ -14,10 +14,10 @@
         "gridsome": "^0.7.12",
         "gridsome-plugin-netlify-cms": "^1.0.9",
         "moment": "^2.24.0",
-        "netlify-cms": "^2.10.23",
-        "vue-loader": "^15.9.0"
+        "netlify-cms": "^2.10.35",
+        "vue-loader": "^15.9.1"
     },
-    "description": "Game review site from Lucia Woodfine.",
+    "description": "Information, data, prices, charts, reviews and analysis in Cryptocurrency and blockchain tech.",
     "version": "1.0.0",
     "main": "gridsome.config.js",
     "devDependencies": {
