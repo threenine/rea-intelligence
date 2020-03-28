@@ -52,3 +52,5 @@ The truth is, Covid-19 has completely revealed the true fragility of the Global 
 
 
 > There are no gods, no nations, no money and no human rights, except in our collective imagination.
+>
+> [Yuval Noah Harari, Sapiens: A Brief History of Humankind](https://amzn.to/39t6ZJw)
