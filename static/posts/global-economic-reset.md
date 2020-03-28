@@ -47,10 +47,12 @@ COVID-19 has affected the global economy in three main ways:
 * Supply chain and Market disruption
 * Financial impact on firms and financial markets. 
 
-The truth is, Covid-19 has completely revealed the true fragility of the Global Economic system, providing definitive proof that it is a completely imaginary system, as presented in Yuval Noah Harari's book, [Sapiens: A Brief History of Humankind](https://amzn.to/39t6ZJw).  
+The truth is, Covid-19 has completely revealed the true fragility of the Global Economic system, providing definitive proof that Money and Economics are completely imaginary systems, as presented in Yuval Noah Harari's book, [Sapiens: A Brief History of Humankind](https://amzn.to/39t6ZJw).  
 
 
 
 > There are no gods, no nations, no money and no human rights, except in our collective imagination.
 >
 > [Yuval Noah Harari, Sapiens: A Brief History of Humankind](https://amzn.to/39t6ZJw)
+
+During the initial onset of the virus, there was more concern of what affect the virus would have on the Global Economy than it would on Human lives.
