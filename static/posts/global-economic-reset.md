@@ -1,7 +1,7 @@
 ---
 title: Global economic reset
 description: Opinion piece on the current and post Covid-19 Economic situation
-date: 2020-02-23T15:30:17.283Z
+date: 2020-03-28T15:30:17.283Z
 author: gary-woodfine
 tags:
   - economics
@@ -43,5 +43,8 @@ Probably the most devastating impact of the virus, despite killing over 20 000 a
 
 COVID-19 has affected the global economy in three main ways: 
 * Directly affecting production
-* supply chain and market disruption
+* Supply chain and Market disruption
 * Financial impact on firms and financial markets. 
+
+The truth is, Covid-19 has completely revealed the true fragility of the Global Economic system, providing definitive proof that it is a completely imaginary system, as presented in Yuval Noah Harari's book, [Sapiens: A Brief History of Humankind](https://amzn.to/39t6ZJw). 
+
