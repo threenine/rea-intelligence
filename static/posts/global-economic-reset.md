@@ -42,11 +42,13 @@ Probably the most devastating impact of the virus, despite killing over 20 000 a
 | ![Dow Jones Industrial Average](/uploads/dow-jones-industrial-index.png "Dow Jones Industrial Average") | ![S&P 500 Index](/uploads/sandp-500-index.png "S&P 500 Index") | ![NASDAQ Composite Index](/uploads/nasdaq-composite-index.png "NASDAQ Composite Index") |
 
 COVID-19 has affected the global economy in three main ways: 
+
 * Directly affecting production
 * Supply chain and Market disruption
 * Financial impact on firms and financial markets. 
 
-The truth is, Covid-19 has completely revealed the true fragility of the Global Economic system, providing definitive proof that it is a completely imaginary system, as presented in Yuval Noah Harari's book, [Sapiens: A Brief History of Humankind](https://amzn.to/39t6ZJw). 
+The truth is, Covid-19 has completely revealed the true fragility of the Global Economic system, providing definitive proof that it is a completely imaginary system, as presented in Yuval Noah Harari's book, [Sapiens: A Brief History of Humankind](https://amzn.to/39t6ZJw).  
 
 
 
+> There are no gods, no nations, no money and no human rights, except in our collective imagination.
