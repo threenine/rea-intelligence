@@ -5,3 +5,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+a {
+    @apply text-orange-700 font-bold;
+}
+
+a:hover {
+    @apply text-orange-800;
+}

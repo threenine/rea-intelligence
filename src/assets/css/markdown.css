@@ -76,7 +76,7 @@
 }
 
 .markdown-body .pl-ent {
-    color: #22863a;
+    color: #c05621;
 }
 
 .markdown-body .pl-k {
@@ -117,7 +117,7 @@
 }
 
 .markdown-body .pl-sr .pl-cce {
-    color: #22863a;
+    color: #c05621;
     font-weight: 700;
 }
 
@@ -149,7 +149,7 @@
 
 .markdown-body .pl-mi1 {
     background-color: #f0fff4;
-    color: #22863a;
+    color: #c05621;
 }
 
 .markdown-body .pl-mc {
@@ -520,7 +520,7 @@
 }
 
 .markdown-body blockquote {
-    border-left: .25em solid #30855A;
+    border-left: .25em solid #c05621;
     color: #6a737d;
     padding: 0 1em;
 }
