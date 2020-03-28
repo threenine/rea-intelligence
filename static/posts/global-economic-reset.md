@@ -29,9 +29,9 @@ The general consensus among experts researching the virus places the beginning o
 
 Irrespective of the origins of the Virus, one thing that stands out is that as a species, human beings destroy ecosystems and often farm animals in quite cruel, crowded conditions. These two things expose humanity to really dangerous viruses from animals.
 
-As a species, we all need to accept some responsibility and wake up to the fact we need to treat our planet better but, there is no one person or culture that we need to blame here.  
+As a species, we all need to accept some responsibility and wake up to the fact we need to treat our planet, environment, other creatures and ecosystem with more respect. There is no one person, culture, nation, race, religion or political system that we are are able to blame.  
 
-The entire human race, irrespective of nationality, culture, creed or race need to take full brunt of the burden because each and every single one of us are share the responsibility for it.  Primarily because we have all been complicit in creating the conditions for Covid-19 evolve.
+The entire human race, irrespective of nationality, culture, creed or race need to take full brunt of the burden of blame because each and every single one of us are share the responsibility for it.  Primarily because we have all been complicit in creating the conditions for Covid-19 evolve.
 
 ## Viral Economic Impact
 
