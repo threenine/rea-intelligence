@@ -21,6 +21,10 @@
             PostItem,
             Pagination
         },
+        metaInfo: {
+              title: "Home"
+
+        }
     }
 </script>
 
