@@ -42,8 +42,7 @@
                     title
                     timeToRead
                     content
-                    excerpt
-                    description
+                    summary
                     path
                     date (format: "D MMMM Y")
                     tags {
