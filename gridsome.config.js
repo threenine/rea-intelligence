@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'rea-intelligence',
+  siteName: 'REA intelligence',
   siteDescription: "investing",
   siteUrl: 'https://rea-intelligence.com',
   titleTemplate: `%s | REA Intelligence`,
