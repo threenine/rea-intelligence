@@ -45,6 +45,13 @@ module.exports = {
       }
     },
     {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'static/reviews/books/*.md',
+        typeName: 'Books',
+      }
+    },
+    {
       use: `gridsome-plugin-netlify-cms`,
       options: {
         publicPath: `/admin`
@@ -61,4 +68,10 @@ module.exports = {
         component: './src/templates/guides/crypto/Guide.vue'
       }],
   },
+  Books: [
+    {
+      path: '/reviews/books/:title',
+      component: './src/templates/reviews/books/Review.vue'
+    }
+  ]
 };
