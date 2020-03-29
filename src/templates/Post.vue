@@ -39,7 +39,7 @@
                     {key: "og:type",property: "og:type", content: 'article'},
                     {key: 'og:title' ,property: "og:title", content: this.$page.post.title},
                     {key: 'description', name: "description", content: this.$page.post.description},
-                    {key:"og:url" ,property: "og:url", content: this.postUrl},
+                    {key: 'og:url' ,property: "og:url", content: this.postUrl},
                     {key: "article:published_time", property: "article:published_time", content: this.$page.post.date},
                 ]
             }
