@@ -32,19 +32,19 @@ collections:
          - {label: "Publish Date", name: "date", widget: "date"}
          - {label: "Body", name: "body", widget: "markdown"}
     - name: "books"
-        label: "Book Reviews"
-        folder: "static/reviews/books"
-        create: true
-        slug: "{{slug}}"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Description", name: "description", widget: "string"}
-          - {label: "Publish Date", name: "date", widget: "date"}
-          - {label: "Text link", name: "text_link" , widget: "string"}
-          - {label: "Book Image", name: "book_image", widget: "markdown"}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Author", name: "author", widget: "string"}
-          - label: "Tags"
-            name: "tags"
-            widget: list
-            field: { label: "Tag", name: "tag", widget: "string" }
+      label: "Book Reviews"
+       folder: "static/reviews/books"
+       create: true
+       slug: "{{slug}}"
+       fields:
+         - {label: "Title", name: "title", widget: "string"}
+         - {label: "Description", name: "description", widget: "string"}
+         - {label: "Publish Date", name: "date", widget: "date"}
+         - {label: "Text link", name: "text_link" , widget: "string"}
+         - {label: "Book Image", name: "book_image", widget: "markdown"}
+         - {label: "Body", name: "body", widget: "markdown"}
+         - {label: "Author", name: "author", widget: "string"}
+         - label: "Tags"
+           name: "tags"
+           widget: list
+           field: { label: "Tag", name: "tag", widget: "string" }
