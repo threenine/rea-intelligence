@@ -33,10 +33,10 @@ collections:
          - {label: "Body", name: "body", widget: "markdown"}
     - name: "books"
       label: "Book Reviews"
-       folder: "static/reviews/books"
-       create: true
-       slug: "{{slug}}"
-       fields:
+      folder: "static/reviews/books"
+      create: true
+      slug: "{{slug}}"
+      fields:
          - {label: "Title", name: "title", widget: "string"}
          - {label: "Description", name: "description", widget: "string"}
          - {label: "Publish Date", name: "date", widget: "date"}
