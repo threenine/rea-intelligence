@@ -1,5 +1,5 @@
 {
-    "name": "geekiam",
+    "name": "rea-intelligence",
     "private": true,
     "scripts": {
         "build": "gridsome build",
@@ -23,7 +23,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/garywoodfine/geekiam.git"
+        "url": "git+ssh://git@github.com/threenine/rea-intelligence.git"
     },
     "keywords": [
         "geek",
@@ -33,7 +33,7 @@
     "author": "Gary Woodfine",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/garywoodfine/geekiam/issues"
+        "url": "https://github.com/threenine/rea-intelligence/issues"
     },
-    "homepage": "https://github.com/garywoodfine/geekiam#readme"
+    "homepage": "https://github.com/threenine/rea-intelligence#readme"
 }
