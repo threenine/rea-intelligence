@@ -9,11 +9,9 @@
     "dependencies": {
         "@gridsome/source-filesystem": "^0.6.2",
         "@gridsome/transformer-remark": "^0.5.0",
-        "dotenv": "^8.2.0",
         "gridsome": "^0.7.21",
         "gridsome-plugin-gtag": "^0.1.5",
         "gridsome-plugin-netlify-cms": "^1.0.9",
-        "moment": "^2.29.0",
         "netlify-cms": "^2.10.61",
         "vue-loader": "^15.9.3"
     },
@@ -21,8 +19,7 @@
     "version": "1.0.0",
     "main": "gridsome.config.js",
     "devDependencies": {
-        "gridsome-plugin-tailwindcss": "^2.2.48",
-        "tailwindcss-transitions": "^2.1.0"
+        "gridsome-plugin-tailwindcss": "^2.2.48"
     },
     "repository": {
         "type": "git",

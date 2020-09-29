@@ -26,10 +26,7 @@
             Pagination
         },
         methods: {
-            formatPublishDate(date) {
-                return moment(date).format('DD MMMM, YYYY');
-            },
-            titleCase(str) {
+             titleCase(str) {
                 return str.replace('-', ' ').split(' ').map((s) => s.charAt(0).toUpperCase() + s.substring(1)).join(' ')
             }
         },
@@ -52,7 +49,6 @@
                         ...on Post {
                                 id
                                 title
-                                datetime: date (format: "YYYY-MM-DD HH:mm:ss")
                                 path
                                 content
                                 description
