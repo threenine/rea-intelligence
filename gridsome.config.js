@@ -12,7 +12,7 @@ module.exports = {
   icon: 'src/assets/favicon.png',
   plugins: [
     {
-      use: '@gridsome/plugin-google-analytics',
+      use: 'gridsome-plugin-gtag',
       options: {
         id: 'UA-158618204-1'
       }
