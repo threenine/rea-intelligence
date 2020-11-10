@@ -14,11 +14,17 @@ collections:
       fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Summary", name: "summary", widget: "string"}
+          - label: "Author"
+            name: "author"
+            widget: "relation"
+            collection: "Authors"
+            search_fields: [ "name.firstName" , "name.lastName" ]
+            value_field: "title"
+            display_fields: [ "name.firstName" , "name.lastName" ]
           - {label: "Keywords", name: "Keywords", widget: "string" }
           - {label: "Description", name: "description", widget: "string"}
           - {label: "Publish Date", name: "date", widget: "date"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Author", name: "author", widget: "string"}
           - label: "Tags"
             name: "tags"
             widget: list
@@ -39,7 +45,7 @@ collections:
       folder: "static/authors"
       create: true
       slug: "{{slug}}"
-      identifier_field: "id"
+      identifier_field: "title"
       fields:
       - {label: "Github Username", name: "title", widget: "string", required: true, hint: "Github username" }
       -  label: "Full name"
