@@ -1,8 +1,10 @@
 ---
+summary: Opinion regarding the current and post Covid-19 Economic situation
+keywords: "economics, covid-19, economy, "
 title: Global economic reset
-summary: 'Opinion regarding the current and post Covid-19 Economic situation'
-keywords: 'economics, covid-19, economy, '
-description: 'Opinion regarding the current and post Covid-19 Economic situation'
+author: garywoodfine
+Keywords: vdsfsadffasdfasdf
+description: Opinion regarding the current and post Covid-19 Economic situation
 date: 2020-03-28T15:30:17.283Z
 tags:
   - economics
