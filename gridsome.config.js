@@ -32,8 +32,22 @@ module.exports = {
             typeName: 'Tag',
             create: true,
           },
+          author: {
+            typeName: 'Author'
+          }
         },
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'static/authors/*.md',
+        typeName: 'Author',
+        create: true,
+        refs: {
+          typeName: 'Post'
+        }
+      },
     },
     {
       use: '@gridsome/source-filesystem',
@@ -52,6 +66,7 @@ module.exports = {
   templates: {
     Post: '/:title',
     Tag: '/tag/:id',
+    Author: '/author/:title',
     Crypto: [
       {
         path: '/guides/crypto/:title',
