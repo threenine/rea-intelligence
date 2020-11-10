@@ -9,17 +9,17 @@
     "dependencies": {
         "@gridsome/source-filesystem": "^0.6.2",
         "@gridsome/transformer-remark": "^0.5.0",
-        "gridsome": "^0.7.21",
-        "gridsome-plugin-gtag": "^0.1.8",
+        "gridsome": "^0.7.22",
+        "gridsome-plugin-gtag": "^0.1.9",
         "gridsome-plugin-netlify-cms": "^1.0.9",
-        "netlify-cms": "^2.10.61",
-        "vue-loader": "^15.9.3"
+        "netlify-cms": "^2.10.68",
+        "vue-loader": "^15.9.5"
     },
     "description": "Information, data, prices, charts, reviews and analysis in Cryptocurrency and blockchain tech.",
     "version": "1.0.0",
     "main": "gridsome.config.js",
     "devDependencies": {
-        "gridsome-plugin-tailwindcss": "^2.2.48"
+        "gridsome-plugin-tailwindcss": "^3.0.1"
     },
     "repository": {
         "type": "git",

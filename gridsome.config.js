@@ -30,10 +30,6 @@ module.exports = {
             typeName: 'Tag',
             create: true,
           },
-          author: {
-            typeName: 'Author',
-            create: true,
-          },
         },
       }
     },
@@ -54,7 +50,6 @@ module.exports = {
   templates: {
     Post: '/:title',
     Tag: '/tag/:id',
-    Author: '/author/:id',
     Crypto: [
       {
         path: '/guides/crypto/:title',

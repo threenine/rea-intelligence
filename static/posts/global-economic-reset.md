@@ -4,7 +4,6 @@ summary: 'Opinion regarding the current and post Covid-19 Economic situation'
 keywords: 'economics, covid-19, economy, '
 description: 'Opinion regarding the current and post Covid-19 Economic situation'
 date: 2020-03-28T15:30:17.283Z
-author: gary-woodfine
 tags:
   - economics
   - economy

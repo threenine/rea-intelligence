@@ -60,12 +60,7 @@
                             excerpt
                             description
                             timeToRead
-                            author {
-                            id
-                            title
-                            path
-                            }
-                        }
+                             }
                     }
                 }
             }
