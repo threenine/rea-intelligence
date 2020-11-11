@@ -53,7 +53,7 @@
 </script>
 
 <page-query>
-    query Post ($path: String) {
+    query ($path: String) {
         post (path: $path) {
             title
             path

@@ -32,8 +32,8 @@ module.exports = {
             typeName: 'Tag',
             create: true,
           },
-          author: {
-            typeName: 'Author'
+          authors: {
+            typeName: 'Authors'
           }
         },
       }
@@ -42,7 +42,7 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'static/authors/*.md',
-        typeName: 'Author',
+        typeName: 'Authors',
         create: true,
         refs: {
           typeName: 'Post'
@@ -66,7 +66,10 @@ module.exports = {
   templates: {
     Post: '/:title',
     Tag: '/tag/:id',
-    Author: '/author/:title',
+    Authors:[ {
+      path: '/author/:id',
+      component: './src/templates/authors/Profile.vue'
+    }],
     Crypto: [
       {
         path: '/guides/crypto/:title',
